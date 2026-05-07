@@ -4,8 +4,7 @@
 * **Federico Saporiti**
 * **Davide Pillon**
 * **Leonardo Luigi Pepe**
-
-**(Group 3, Thursday Shift)**
+Msc in Control Systems Engineering
 
 ## Overview
 This repository contains the models, scripts, and documentation for designing and validating a digital position control system. The setup replaces the original motor load with a rigid beam connected via an elastic joint. 
