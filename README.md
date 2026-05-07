@@ -26,7 +26,6 @@ The core tasks of this activity include:
 * `/models`: Simulink files for the plant and control architectures.
 * `/scripts`: MATLAB scripts for parameter estimation, PID tuning, and LQR cost calculations.
 * `/data`: Workspace data and logs of the system's natural responses.
-* `Report.pdf`: Comprehensive documentation of the mathematical models and experimental findings.
 
 ## Results Summary
 The performance was assessed based on the strict transient specifications.
